@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\Software Engineering\\IMDBRATINGS\\Connected Mode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{640250FF-4889-4091-BC9C-F82475C072A0}|Connected Mode\\Connected Mode.csproj|d:\\my projects\\software engineering\\imdbratings\\connected mode\\connected mode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640250FF-4889-4091-BC9C-F82475C072A0}|Connected Mode\\Connected Mode.csproj|solutionrelative:connected mode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640250FF-4889-4091-BC9C-F82475C072A0}|Connected Mode\\Connected Mode.csproj|D:\\My Projects\\Software Engineering\\IMDBRATINGS\\Connected Mode\\connected mode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{640250FF-4889-4091-BC9C-F82475C072A0}|Connected Mode\\Connected Mode.csproj|solutionrelative:connected mode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{640250FF-4889-4091-BC9C-F82475C072A0}|Connected Mode\\Connected Mode.csproj|D:\\My Projects\\Software Engineering\\IMDBRATINGS\\Connected Mode\\connected mode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{640250FF-4889-4091-BC9C-F82475C072A0}|Connected Mode\\Connected Mode.csproj|solutionrelative:connected mode\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\My Projects\\Software Engineering\\IMDBRATINGS\\Connected Mode\\Connected Mode\\Form1.cs",
+              "RelativeDocumentMoniker": "Connected Mode\\Form1.cs",
+              "ToolTip": "D:\\My Projects\\Software Engineering\\IMDBRATINGS\\Connected Mode\\Connected Mode\\Form1.cs",
+              "RelativeToolTip": "Connected Mode\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:39:58.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\Software Engineering\\IMDBRATINGS\\Connected Mode\\Connected Mode\\Program.cs",
+              "RelativeDocumentMoniker": "Connected Mode\\Program.cs",
+              "ToolTip": "D:\\My Projects\\Software Engineering\\IMDBRATINGS\\Connected Mode\\Connected Mode\\Program.cs",
+              "RelativeToolTip": "Connected Mode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:39:52.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\My Projects\\Software Engineering\\IMDBRATINGS\\Connected Mode\\Connected Mode\\Form1.cs",
+              "RelativeDocumentMoniker": "Connected Mode\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hesh\\Desktop\\summer\\swe\\imdbratings\\Connected Mode\\Connected Mode\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:39:40.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
